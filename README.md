@@ -67,41 +67,4 @@
 
       <!-- Penandatangan -->
       <div style="text-align: center; min-width: 150px;">
-        <p style="font-family: 'Brush Script MT', cursive; font-size: 34px; margin-bottom: 0; border-bottom: 3px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
-          M. Rizky F.
-        </p>
-        <p style="margin-top: 8px; font-weight: bold; font-size: 15px; color: #1a1a2e;">✍️ Mentor / Penandatangan</p>
-      </div>
-
-    </div>
-
-    <!-- Stempel dekoratif -->
-    <div style="margin-top: 20px;">
-      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
-      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
-      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
-    </div>
-
-    <p style="margin-top: 25px; font-size: 15px; color: #555; font-style: italic; border-top: 1px dashed #ccc; padding-top: 15px;">
-      “Konsistensi adalah kunci menuju mahir – teruslah berkarya!”
-    </p>
-
-  </div> <!-- end inner -->
-</div> <!-- end outer -->
-
----
-
-<!-- ============ STATISTIK GITHUB ============ -->
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febriansyahnur69-lgtm&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febriansyahnur69-lgtm&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-<!-- ============ MOTTO ============ -->
-<p align="center">
-  <strong>💡 “Belajar, coding, ulangi – setiap hari lebih baik dari hari sebelumnya.”</strong>
-</p>
+        <p style="font-family: 'Brush
