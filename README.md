@@ -28,66 +28,66 @@
 
 ---
 
-<!-- ============ SERTIFIKAT RESMI (BENTUK KOTAK) ============ -->
-<div align="center" style="border: 6px solid #D4AF37; padding: 30px 20px; width: 85%; margin: 20px auto; background: #ffffff; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+<!-- ============ SERTIFIKAT RESMI (BENTUK KOTAK DENGAN BINGKAI EMAS) ============ -->
+<div align="center" style="border: 8px solid #D4AF37; padding: 30px 20px; width: 85%; margin: 30px auto; background: #fefefe; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 
-  <!-- Garis dekoratif dalam -->
-  <div style="border: 2px solid #D4AF37; padding: 20px; border-radius: 15px;">
+  <!-- Inner border untuk efek klasik -->
+  <div style="border: 3px solid #D4AF37; padding: 25px; border-radius: 18px; background: #fafafa;">
 
-    <h2 style="color: #1a1a2e; margin: 0; font-size: 28px; letter-spacing: 2px;">
-      🏆 SERTIFIKAT PENGHARGAAN 🏆
+    <h2 style="color: #1a1a2e; margin: 0; font-size: 30px; letter-spacing: 3px; text-transform: uppercase; font-weight: 700;">
+      🏆 Sertifikat Penghargaan 🏆
     </h2>
-    <hr style="width: 60%; border: 2px solid #D4AF37; border-radius: 5px; margin: 10px auto;" />
+    <hr style="width: 50%; border: 2px solid #D4AF37; border-radius: 5px; margin: 12px auto;" />
 
-    <p style="font-size: 18px; margin-top: 15px; color: #333;">Diberikan kepada</p>
+    <p style="font-size: 18px; margin-top: 10px; color: #333;">Diberikan kepada</p>
 
-    <h1 style="font-family: 'Georgia', serif; color: #0d47a1; font-size: 38px; margin: 5px 0; letter-spacing: 2px;">
+    <h1 style="font-family: 'Georgia', serif; color: #0d47a1; font-size: 42px; margin: 5px 0; letter-spacing: 2px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
       Febriansyah Nur Wahid
     </h1>
 
-    <p style="font-size: 16px; max-width: 600px; margin: 10px auto; color: #444; line-height: 1.6;">
+    <p style="font-size: 17px; max-width: 600px; margin: 10px auto; color: #444; line-height: 1.6;">
       Atas dedikasi dan penyelesaian program <strong>Pengembangan Web Modern</strong><br />
       dengan fokus pada <strong>JavaScript & React</strong>.
     </p>
 
-    <p style="margin-top: 15px; font-size: 15px;">
+    <p style="margin-top: 15px; font-size: 16px;">
       <strong>📅 Tanggal Pemberian:</strong> 6 September 2026
     </p>
 
     <!-- Tanda Tangan -->
-    <div style="display: flex; justify-content: center; gap: 60px; margin-top: 30px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 80px; margin-top: 30px; flex-wrap: wrap;">
 
       <!-- Penerima -->
       <div style="text-align: center; min-width: 150px;">
-        <p style="font-family: 'Brush Script MT', cursive; font-size: 30px; margin-bottom: 0; border-bottom: 2px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
+        <p style="font-family: 'Brush Script MT', cursive; font-size: 34px; margin-bottom: 0; border-bottom: 3px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
           Febriansyah N.W.
         </p>
-        <p style="margin-top: 6px; font-weight: bold; font-size: 14px; color: #1a1a2e;">✍️ Penerima</p>
+        <p style="margin-top: 8px; font-weight: bold; font-size: 15px; color: #1a1a2e;">✍️ Penerima</p>
       </div>
 
       <!-- Penandatangan -->
       <div style="text-align: center; min-width: 150px;">
-        <p style="font-family: 'Brush Script MT', cursive; font-size: 30px; margin-bottom: 0; border-bottom: 2px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
+        <p style="font-family: 'Brush Script MT', cursive; font-size: 34px; margin-bottom: 0; border-bottom: 3px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
           M. Rizky F.
         </p>
-        <p style="margin-top: 6px; font-weight: bold; font-size: 14px; color: #1a1a2e;">✍️ Mentor / Penandatangan</p>
+        <p style="margin-top: 8px; font-weight: bold; font-size: 15px; color: #1a1a2e;">✍️ Mentor / Penandatangan</p>
       </div>
 
     </div>
 
-    <!-- Stempel / Cap -->
+    <!-- Stempel dekoratif -->
     <div style="margin-top: 20px;">
-      <span style="font-size: 30px; opacity: 0.6;">⭐</span>
-      <span style="font-size: 30px; opacity: 0.6;">⭐</span>
-      <span style="font-size: 30px; opacity: 0.6;">⭐</span>
+      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
+      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
+      <span style="font-size: 32px; opacity: 0.5; margin: 0 5px;">⭐</span>
     </div>
 
-    <p style="margin-top: 20px; font-size: 14px; color: #555; font-style: italic; border-top: 1px dashed #ccc; padding-top: 15px;">
+    <p style="margin-top: 25px; font-size: 15px; color: #555; font-style: italic; border-top: 1px dashed #ccc; padding-top: 15px;">
       “Konsistensi adalah kunci menuju mahir – teruslah berkarya!”
     </p>
 
-  </div> <!-- tutup border dalam -->
-</div> <!-- tutup border luar -->
+  </div> <!-- end inner -->
+</div> <!-- end outer -->
 
 ---
 
@@ -101,7 +101,7 @@
 
 ---
 
-<!-- ============ MOTTO PENUTUP ============ -->
+<!-- ============ MOTTO ============ -->
 <p align="center">
   <strong>💡 “Belajar, coding, ulangi – setiap hari lebih baik dari hari sebelumnya.”</strong>
 </p>
