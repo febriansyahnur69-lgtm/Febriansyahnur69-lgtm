@@ -1,70 +1,62 @@
-<!-- ============ HEADER ============ -->
-<h1 align="center">👋 Halo, Saya Febriansyah Nur Wahid</h1>
-<h3 align="center">⚡ Building Cool Web Apps | JavaScript & React Enthusiast ⚡</h3>
+# 👋 Halo, Saya Febriansyah Nur Wahid
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Febriansyahnur69-lgtm&label=👁️+Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+**⚡ Building Cool Web Apps | JavaScript & React Enthusiast ⚡**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Febriansyahnur69-lgtm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- ============ BADGE TEKNOLOGI ============ -->
-<p align="center">
+---
+
+## 🧑‍💻 Tentang Saya
+
+- 🌱 Saat ini sedang memperdalam **JavaScript** & **React**
+- 🎯 Target: menjadi Full‑Stack Web Developer
+- 💬 Tanyakan apa saja tentang web development
+- 📫 Hubungi saya: [GitHub](https://github.com/Febriansyahnur69-lgtm)
+
+---
+
+## 🛠️ Tech Stack Favorit
+
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ---
 
-<!-- ============ TENTANG SAYA ============ -->
-## 🧑‍💻 Tentang Saya
+## 🏆 Prestasi & Trofi GitHub
 
-- 🌱 Saat ini memperdalam **JavaScript** & **React**
-- 🎯 Target: menjadi full‑stack developer
-- 💬 Tanya seputar web development
-- 📫 GitHub: [Febriansyahnur69-lgtm](https://github.com/Febriansyahnur69-lgtm)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Febriansyahnur69-lgtm&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-<!-- ============ SERTIFIKAT RESMI (BENTUK KOTAK DENGAN BINGKAI EMAS) ============ -->
-<div align="center" style="border: 8px solid #D4AF37; padding: 30px 20px; width: 85%; margin: 30px auto; background: #fefefe; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+## 📊 Statistik GitHub
 
-  <!-- Inner border untuk efek klasik -->
-  <div style="border: 3px solid #D4AF37; padding: 25px; border-radius: 18px; background: #fafafa;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Febriansyahnur69-lgtm&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febriansyahnur69-lgtm&layout=compact&theme=radical" alt="Top languages" width="40%" />
+</p>
 
-    <h2 style="color: #1a1a2e; margin: 0; font-size: 30px; letter-spacing: 3px; text-transform: uppercase; font-weight: 700;">
-      🏆 Sertifikat Penghargaan 🏆
-    </h2>
-    <hr style="width: 50%; border: 2px solid #D4AF37; border-radius: 5px; margin: 12px auto;" />
+---
 
-    <p style="font-size: 18px; margin-top: 10px; color: #333;">Diberikan kepada</p>
+## 📌 Motto Hidup
 
-    <h1 style="font-family: 'Georgia', serif; color: #0d47a1; font-size: 42px; margin: 5px 0; letter-spacing: 2px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
-      Febriansyah Nur Wahid
-    </h1>
+> 💡 *"Belajar, coding, ulangi – setiap hari lebih baik dari hari sebelumnya."*
 
-    <p style="font-size: 17px; max-width: 600px; margin: 10px auto; color: #444; line-height: 1.6;">
-      Atas dedikasi dan penyelesaian program <strong>Pengembangan Web Modern</strong><br />
-      dengan fokus pada <strong>JavaScript & React</strong>.
-    </p>
+---
 
-    <p style="margin-top: 15px; font-size: 16px;">
-      <strong>📅 Tanggal Pemberian:</strong> 6 September 2026
-    </p>
-
-    <!-- Tanda Tangan -->
-    <div style="display: flex; justify-content: center; gap: 80px; margin-top: 30px; flex-wrap: wrap;">
-
-      <!-- Penerima -->
-      <div style="text-align: center; min-width: 150px;">
-        <p style="font-family: 'Brush Script MT', cursive; font-size: 34px; margin-bottom: 0; border-bottom: 3px solid #1a1a2e; display: inline-block; padding: 0 20px; color: #1a1a2e;">
-          Febriansyah N.W.
-        </p>
-        <p style="margin-top: 8px; font-weight: bold; font-size: 15px; color: #1a1a2e;">✍️ Penerima</p>
-      </div>
-
-      <!-- Penandatangan -->
-      <div style="text-align: center; min-width: 150px;">
-        <p style="font-family: 'Brush
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" />
+</p>
